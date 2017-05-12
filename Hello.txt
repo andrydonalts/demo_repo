@@ -1,4 +1,5 @@
-print("hello");
-print("hello to everybody");
-hello changed
-hello my dear friend
+
+print("hello.");
+print("hello to everybody.");
+hello changed.
+hello my dear friend.
